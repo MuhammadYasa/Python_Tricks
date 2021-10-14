@@ -4,7 +4,7 @@ b = 40
 c = 70
 print("before swapping")
 print(f'a={a}, b={b}, c={c}')
-d = a
+d = a # temporary variable
 a = b
 b = c
 c = d
