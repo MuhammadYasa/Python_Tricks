@@ -6,6 +6,7 @@ mylist = [10, 20, 30]
 yourlist = []
 for item in mylist:
     yourlist.append(two_squared(item))
+    # the loop will add the result of the two_squared function to yourlist
 
 print('General Programming')
 print(f'mylist : {mylist}')
