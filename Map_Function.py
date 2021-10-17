@@ -1,7 +1,6 @@
 def two_squared(x):
     return x * 2
 
-
 mylist = [10, 20, 30]
 yourlist = []
 for item in mylist:
